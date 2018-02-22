@@ -48,9 +48,11 @@
     <module>dublin-core</module>
     <module>iso19110</module>
     <module>iso19139</module>
+    <!-- Addded by oggioniale for sensorML plugin -->
+    <module>sensorML</module>
   </modules>
   <properties>
     <rootProjectDir>../..</rootProjectDir>
   </properties>
-  
+
 </project>
